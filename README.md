@@ -4,6 +4,8 @@
 
 This Streamlit application empowers you to have a conversation-like interaction with the content of your PDF files. It leverages cutting-edge large language models (LLMs) from Google Generative AI to provide comprehensive answers to your questions about the uploaded PDFs.
 
+Model Used: 'gemini-pro'
+
 ## Features:
 
 - Upload multiple PDF files for processing.
